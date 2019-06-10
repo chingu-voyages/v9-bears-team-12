@@ -1,0 +1,5 @@
+[run]
+include = chicago_gentrification_heatmap/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
